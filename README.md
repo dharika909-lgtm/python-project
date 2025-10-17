@@ -9,4 +9,4 @@ Copy the code from this repository and run it in any Python editor or online com
 ## Author
 Dharika.M 
 ## output 
-output.png
+https://ibb.co/HLwc3ck2
